@@ -1,0 +1,26 @@
+body {
+	font-family: Roboto Condensed;
+	background-color: lavenderblush;
+	color: black;
+	text-align: center;
+}
+
+.container {
+	background-color: white;
+	width: 70%;
+	justify-content: center;
+	padding: 10px;
+	border: rebeccapurple solid 5px;
+	border-radius: 10px;
+	box-shadow: -21px 22px 34px 8px rgba(0,0,0,0.75);
+}
+
+.eins {
+	border: lavender 5px dashed;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
